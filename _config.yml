@@ -22,7 +22,7 @@ title: excelon docs
 email: it@exceloncapital.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "docs.exceloncapital.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://docs.exceloncapital.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: just-the-docs
