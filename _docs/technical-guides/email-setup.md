@@ -53,6 +53,8 @@ You will need to be logged in to an existing Gmail account for this. You will on
 
 10. Type `pop3.purelymail.com` into the *POP Server* field. Select `995` as the port. Enter your provided Excelon email address and password. Check "*Leave a copy of retrieved message on the server.*" and "*Always use a secure connection (SSL) when retrieving mail*". You are free to check or not check the other options. Click **Add Account**.
 
+    ![Gmail setup step 7](/assets/gmail-setup-image-7.png)
+
 11. You are all good to go! When you are composing an email, make sure to select your Excelon email in the "*From*" field. You will only be able to do this from the Gmail account you were logged into when performing these steps.
 
 ### Other email clients
