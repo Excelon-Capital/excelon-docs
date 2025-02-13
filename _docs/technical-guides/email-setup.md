@@ -37,21 +37,23 @@ You will need to be logged in to an existing Gmail account for this. You will on
 
     ![Gmail setup step 3](/assets/gmail-setup-image-3.png)
 
-6. Navigate back to the *Accounts and Import* tab and click **Add a mail account**.
+6. Gmail will send a confirmatory email to your Excelon email address. Log in to another email client to retrieve this email. Click the link in the email to confirm your email address. For help with logging in to another email client, see the [Other email clients](#other-email-clients) section.
+
+7. Navigate back to the *Accounts and Import* tab and click **Add a mail account**.
 
     ![Gmail setup step 4](/assets/gmail-setup-image-4.png)
 
-7. Enter your provided Excelon email address and click **Next**.
+8. Enter your provided Excelon email address and click **Next**.
 
     ![Gmail setup step 5](/assets/gmail-setup-image-5.png)
 
-8. You might see the following prompt. Just click **Next**.
+9. You might see the following prompt. Just click **Next**.
 
     ![Gmail setup step 6](/assets/gmail-setup-image-6.png)
 
-9. Type `pop3.purelymail.com` into the *POP Server* field. Select `995` as the port. Enter your provided Excelon email address and password. Check "*Leave a copy of retrieved message on the server.*" and "*Always use a secure connection (SSL) when retrieving mail*". You are free to check or not check the other options. Click **Add Account**.
+10. Type `pop3.purelymail.com` into the *POP Server* field. Select `995` as the port. Enter your provided Excelon email address and password. Check "*Leave a copy of retrieved message on the server.*" and "*Always use a secure connection (SSL) when retrieving mail*". You are free to check or not check the other options. Click **Add Account**.
 
-10. You are all good to go! When you are composing an email, make sure to select your Excelon email in the "*From*" field. You will only be able to do this from the Gmail account you were logged into when performing these steps.
+11. You are all good to go! When you are composing an email, make sure to select your Excelon email in the "*From*" field. You will only be able to do this from the Gmail account you were logged into when performing these steps.
 
 ### Other email clients
 
