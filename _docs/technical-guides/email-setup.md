@@ -57,7 +57,7 @@ You will need to be logged in to an existing Gmail account for this. You will on
 
 ### Other email clients
 
-If you are using an email client other than Gmail, all you will probably need to do is to enter your provided Excelon email address and password. There might be an indicator that shows that it's automatically downloaded the correct settings, and if there is, you can proceed. If there isn't an indicator, but you can successfully log in, everything should be good to go.
+If you are using an email client other than Gmail, all you will probably need to do is to enter your provided Excelon email address and password. There might be an indicator that it automatically downloaded the correct settings — if there is, you can proceed. If there isn't an indicator, but you can successfully log in, everything should be good to go.
 
 If you *are* prompted to enter server settings, use the following:
 
