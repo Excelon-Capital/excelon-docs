@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: Setting up your @exceloncapital.com email
-nav_order: 5
-date: 2025-02-13
+nav_order: 1
+parent: Technical guides
 ---
 
 Last updated: {{ page.date | date: "%B %d, %Y" }}
