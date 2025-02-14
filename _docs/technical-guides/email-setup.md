@@ -18,7 +18,9 @@ Last updated: {{ page.date | date: "%B %d, %Y" }}
 Excelon Capital provides all employees with an email address. You should have received an email from [it@exceloncapital.com](mailto:it@exceloncapital.com) with your login credentials. If you have not received this email, please contact the aforementioned email address.
 
 ## What email client to use?
-You can use any major email client, such as Gmail, Outlook, Apple Mail, and Thunderbird. Most people use Gmail, but you will have to follow a [step-by-step process](#gmail) in order to set up Gmail with your Excelon email address. This guide makes that process easy to follow, but if you'd prefer to avoid the hassle or use other email clients, skip to the the [other email clients](#other-email-clients) section. If you have any specific concerns not covered in this article, email [it@exceloncapital.com](mailto:it@exceloncapital.com).
+We use [Purelymail](https://purelymail.com/) as our email provider. They have a native [webmail portal](https://inbox.purelymail.com/) that you can use, no setup required.
+
+Alternatively, you can use any major email client, such as Gmail, Outlook, Apple Mail, and Thunderbird. Most people use Gmail, but you will have to follow a [step-by-step process](#gmail) in order to set up Gmail with your Excelon email address. This guide makes that process easy to follow, but if you'd prefer to avoid the hassle or use other email clients, skip to the the [other email clients](#other-email-clients) section. If you have any specific concerns not covered in this article, email [it@exceloncapital.com](mailto:it@exceloncapital.com).
 
 ## Setup with various email clients
 ### Gmail
