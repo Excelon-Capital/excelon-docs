@@ -37,7 +37,7 @@ You will need to be logged in to an existing Gmail account for this. You will on
 
     ![Gmail setup step 3](/assets/gmail-setup-image-3.png)
 
-6. Gmail will send a confirmatory email to your Excelon email address. Log in to another email client to retrieve this email. Click the link in the email to confirm your email address. For help with logging in to another email client, see the [Other email clients](#other-email-clients) section.
+6. Gmail will send a confirmatory email to your Excelon email address. You will need to log in to another email client to see this email. The easiest way is to log in the native [webmail portal](https://inbox.purelymail.com/) from our email provider; you will only need your Excelon email address and password, nothing else. Click the link in the email to confirm your email address. For help with logging in other email clients, see the [Other email clients](#other-email-clients) section.
 
 7. Navigate back to the *Accounts and Import* tab and click **Add a mail account**.
 
