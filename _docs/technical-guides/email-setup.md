@@ -61,8 +61,10 @@ You will need to be logged in to an existing Gmail account for this. You will on
 
 If you are using an email client other than Gmail, all you will probably need to do is to enter your provided Excelon email address and password. There might be an indicator that it automatically downloaded the correct settings — if there is, you can proceed. If there isn't an indicator, but you can successfully log in, everything should be good to go.
 
-If you *are* prompted to enter server settings, use the following:
+If you *are* prompted to enter server settings, use the settings below. Don't worry if you don't see all of these settings — just enter the ones you see. If you have an option between IMAP and POP3, pick IMAP.
 
+- **Incoming/IMAP mail server**: `imap.purelymail.com`
+- **Incoming/IMAP mail server port**: `993`
 - **Incoming/POP3 mail server**: `pop3.purelymail.com`
 - **Incoming/POP3 mail server port**: `995`
 - **Outgoing/SMTP mail server**: `smtp.purelymail.com`
